@@ -1,6 +1,4 @@
-# Machine-Learning-for-User-Classification
-
-Using Machine Learning to Classify Students and Predict Student Purchases
+# Using Machine Learning to Classify Students and Predict Student Purchases
 
 Welcome to the Machine Learning for User Classification project! This repository focuses on applying machine learning techniques to a classification problem in the context of user engagement metrics. We've curated a dataset with personally identifiable information stripped, allowing for a secure and insightful analysis.
 
